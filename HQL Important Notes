@@ -1,0 +1,6 @@
+UDF - User Defined Functions  -- ABS(), ROUND(), FLOOR (), SIN(), COS(), TAN(), LOWER(), UPPER(), LENGTH(), REVERSE(), 
+UDAF - User Defined Aggregate Functions -- MAX(), AVG(), MIN() -- Not supported in subqueries 
+
+------SAVES A QUERY AS A NEW TABLE ------ 
+
+HIVE> CREATE TABLE wind_speed as SELECT 
